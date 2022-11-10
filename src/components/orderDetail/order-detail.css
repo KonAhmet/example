@@ -1,0 +1,41 @@
+.orderDetail{
+    padding: 0px 15px;
+}
+h3{
+ color: #282828;
+ 
+}
+.orderInfo{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-bottom:15px;
+    
+    align-items: center;
+    
+}
+#logo{
+    width: 79px;
+    height: 17px;
+}
+#conNot{
+    line-height: 200%;
+    margin-bottom: 0px;
+}
+.orderNote{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 40px;
+}
+#icon{
+    width: 18px;
+    height: 18px;
+}
+#linkDiv{
+    padding-bottom: 9px;
+    
+}
+#creLink{
+    color: #282828;
+}

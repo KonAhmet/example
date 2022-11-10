@@ -1,0 +1,31 @@
+p{
+    display: inline-block;
+    margin-right: 1em;
+}
+.card-title{
+    text-align: center;
+}
+.clrtext{
+    color:#3B64FF;
+   background-color: rgba(89, 100, 207, 0.1);
+    font: inherit;
+    padding: 2px 10px;
+}
+#cardPop{
+    border: 0;
+    width: 500px;
+    
+}
+.linkAny{
+    text-decoration: none;
+    color: #158DB3;
+    
+    
+}
+.linkAnyDiv{
+    margin-top: 2rem;
+    text-align: center;
+}.linkAnyDivs{
+    margin-top: 2rem;
+    text-align: center;
+}
